@@ -46,7 +46,7 @@ public class Loteria extends Stage {
     }
 
     private void CrearTablilla() {
-        String[] arImagenes = {"barril.jpeg", "", "", "", "", ""};
+        String[] arImagenes = {"Planta", "", "", "", "", ""};
         grdTablilla = new GridPane();
         for (int i = 0; i < 4; i++) {
             for (int j = 0; j < 4; j++) {
